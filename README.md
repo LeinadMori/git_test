@@ -1,3 +1,3 @@
-#git repo
-I'm learning with Odin
-Hello odin
+#git test
+I'm a student of Odin
+Hello odin!
